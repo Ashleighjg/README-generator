@@ -1,6 +1,5 @@
 const inquirer = require("inquirer");
 
-
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 /*
@@ -78,7 +77,7 @@ const renderLicenseLink = (license) => {
 // If there is no license, return an empty string
 const renderLicenseSection = (license) => {
   if (license) {
-    return `This project is licensed under the ${renderLicenseLink(license)} license.`
+    return `This project is licensed under the ${renderLicenseLink(license)} license.`;
   } else {
     return "";
   }
@@ -135,9 +134,7 @@ function generateMarkdown(data) {
   ${data.tests}
        
   ## Questions
-  If you have any questions you can email me at ${
-    data.contactemail
-  } or contact me via Github username ${data.contactgithub}.
+  If you have any questions you can email me at ${data.contactemail} or contact me via Github username ${data.contactgithub}.
         
 
 `;

@@ -89,7 +89,7 @@ function init() {
   inquirer.prompt(questions).then((answers) => {
     // console.log(answers);
     const RMcontent = generateMarkdown(answers);
-    writeToFile("README.md", RMcontent);
+    writeToFile("sampleREADME.md", RMcontent);
   });
 
   // Use writeFile method imported from fs.promises to use promises instead of
