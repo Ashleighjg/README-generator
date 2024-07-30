@@ -1,10 +1,10 @@
 
-  # README Generator
+  # Sample README Generator
 
   
         
-  ## Description [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-  For bootcamp practice. to get practice with node.ks. solves many problems with testing and building framework. . I learned how to used node.js.
+  ## Description [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+  I was motivated to update this code to learn node.js. I did this challenge as part of my week 9 challenge.. This solves the problem of README.md file creation . I learned how to more effenciently use node.js.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -15,19 +15,19 @@
   - [Questions](#questions)
                
   ## Installation
-  There where many steps including step one step two and step three
+  There are no steps other than making sure you have the right package installed
        
   ## Usage
-  Anyone can addent usage this
+  This can be used by any developer or programmer to create a README.md file.
         
   ## License
-  This project is licensed under the ([Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0) license.
+  This project is licensed under the ([Creative Commons Zero v1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)) license.
         
   ## Contributing
-  Contribution by conrributors are as follows: Me Me and Me
+  I used Github Markdown License badges page for the links used in this challenge.
        
   ## Tests
-  No test details available
+  N/A
        
   ## Questions
   If you have any questions you can email me at Ashleighjg@gmail.com or contact me via Github username Ashleighjg.

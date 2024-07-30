@@ -2,9 +2,9 @@
 
 ## Description
 
-I was motivated to update the code for this Project Task Board as part of my bootcamp week5 challenge. This wesite was built to allow a user to track projects. I was able to make a responsive website that allows the user to track projects.
+I was motivated to do this challenge as part of my bootcamp week9 challenge. This solves the problem of README.md file creation in a professional automated way. I learned how to more effenciently use node.js.
 
-([Link to video walkthrough](https://ashleighjg.github.io/Project-Task-Board/))
+([Link to video walkthrough](https://drive.google.com/file/d/1w4FEhpcvK072HiEcPRELHlmGRmrGCrIw/view))
 
 ([Code source location](https://github.com/Ashleighjg/README-generator))
 
@@ -23,17 +23,16 @@ N/A
 
 ## Usage
 
-![Shows Terminal](C:\Users\ashle\bootcamp\Emp-Payroll\Pictures\emptracker.JPG)
 
 This README generator can be used by developers and programmers to created a high quality professional README.md file.
 
-![Shows questions with inputs](C:\Users\ashle\bootcamp\Emp-Payroll\Pictures\inputbox.JPG)
+![Shows questions with inputs](./Pictures/questions.JPG)
 
-![Shows file created in Markdown](C:\Users\ashle\bootcamp\Emp-Payroll\Pictures\roster.JPG)
+![Shows file created in Markdown](./Pictures/markdown.JPG)
 
 Once the user has run "node index" in the terminal and input responses to the prompted questions, there will be a README.md file created in that folder.
 
-![Shows preview of the file](C:\Users\ashle\bootcamp\Emp-Payroll\Pictures\Console.JPG)
+![Shows preview of the file](./Pictures/preview.JPG)
 
 ## License
 

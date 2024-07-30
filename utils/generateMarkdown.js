@@ -106,9 +106,7 @@ function generateMarkdown(data) {
   
         
   ## Description ${renderLicenseBadge(data.license)}
-  ${data.motivationDesc}. ${data.whyDesc}. ${data.problemSolvedDesc}. ${
-    data.learnedDesc
-  }.
+  ${data.motivationDesc} ${data.whyDesc} ${data.problemSolvedDesc} ${data.learnedDesc}
 
   ## Table of Contents
   - [Installation](#installation)
