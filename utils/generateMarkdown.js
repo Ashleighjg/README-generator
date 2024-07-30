@@ -1,6 +1,5 @@
 const inquirer = require("inquirer");
-//const fs = require("fs");
-// const data = require("../index.js");
+
 
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
@@ -79,9 +78,7 @@ const renderLicenseLink = (license) => {
 // If there is no license, return an empty string
 const renderLicenseSection = (license) => {
   if (license) {
-    return `This project is licensed under the ${renderLicenseLink(
-      license
-    )} license.`;
+    return `This project is licensed under the ${renderLicenseLink(license)} license.`
   } else {
     return "";
   }
